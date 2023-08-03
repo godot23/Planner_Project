@@ -1,4 +1,4 @@
-# Day Planner
+# Day Planner (URL: https://godot23.github.io/Planner_Project/)
 
 ## Description
 This is a planner that allows you to schedule your day. When you click the save button, your plans will be saved, even should you close the webpage. As time progresses, the planner will change colors to indicate at what time of day it is. 
